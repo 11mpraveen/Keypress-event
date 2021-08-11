@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    color: orangered;
+    font-family: cursive;
+    background-color:lightyellow;
+}
+h2{
+    color: blue;
+    font-weight:100;
+}
+
+.innerhtml{
+    color: blueviolet;
+}
+
+.boldtext{
+    color: red;
+    font-weight:bold;
+}
+
+.square{
+    height: 500px;
+    width: 700px;
+    margin: auto;
+    border: 5px solid black;
+    border-width: 40px;
+    border-style:ridge;
+}
